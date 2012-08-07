@@ -1,0 +1,67 @@
+sum is: /usr/bin/sum
+
+
+2012-01-17 21:30 Checksum for A1 for jemartti on gl24.student.cs  Page 1
+
+
+A1:
+total 580
+25483469 drwxrwx--- 8 jemartti cs488         4096 2012-01-17 21:30 ../
+43564481 drwxrwx--- 4 jemartti cs488         4096 2012-01-17 21:28 ./
+43564482 drwxrwx--- 2 jemartti cs488         4096 2012-01-17 21:27 src/
+48801963 -rwxr-x--x 1 jemartti jemarttinen 518534 2012-01-17 21:27 game488*
+51928296 -rw-r----- 1 jemartti jemarttinen  28846 2012-01-17 21:14 screenshot01.png
+35971998 -rw-r-x--- 1 jemartti jemarttinen    383 2012-01-17 21:09 README*
+50133637 -rw-r----- 1 jemartti jemarttinen   6475 2012-01-17 21:05 .cproject
+50133636 -rw-r----- 1 jemartti jemarttinen   2293 2012-01-17 21:05 .project
+43564493 drwxrwx--- 2 jemartti cs488         4096 2012-01-08 20:36 data/
+
+A1/src:
+total 588
+43564481 drwxrwx--- 4 jemartti cs488         4096 2012-01-17 21:28 ../
+43564482 drwxrwx--- 2 jemartti cs488         4096 2012-01-17 21:27 ./
+48801974 -rwxr-x--x 1 jemartti jemarttinen 518534 2012-01-17 21:27 game488*
+50133638 -rw-r----- 1 jemartti jemarttinen  12725 2012-01-17 21:27 viewer.cpp
+50133640 -rw-r----- 1 jemartti jemarttinen   4176 2012-01-17 21:25 appwindow.cpp
+50133647 -rw-r----- 1 jemartti jemarttinen    744 2012-01-17 21:05 appwindow.hpp
+50133646 -rw-r----- 1 jemartti jemarttinen    678 2012-01-17 21:05 Makefile
+50133645 -rw-r----- 1 jemartti jemarttinen   7542 2012-01-17 21:05 game.cpp
+50133644 -rw-r----- 1 jemartti jemarttinen   3308 2012-01-17 21:05 algebra.cpp
+50133643 -rw-r----- 1 jemartti jemarttinen   3505 2012-01-17 21:05 viewer.hpp
+50133642 -rw-r----- 1 jemartti jemarttinen    325 2012-01-17 21:05 main.cpp
+50133641 -rw-r----- 1 jemartti jemarttinen   9474 2012-01-17 21:05 algebra.hpp
+50133639 -rw-r----- 1 jemartti jemarttinen   3294 2012-01-17 21:05 game.hpp
+
+A1/data:
+total 8
+43564481 drwxrwx--- 4 jemartti cs488 4096 2012-01-17 21:28 ../
+43564493 drwxrwx--- 2 jemartti cs488 4096 2012-01-08 20:36 ./
+
+A1                                      
+A1/.cproject                            29451     7
+A1/data                                 
+A1/game488                              25105   507
+A1/.project                             48394     3
+A1/README                               19875     1
+A1/screenshot01.png                     10507    29
+A1/src                                  
+A1/src/algebra.cpp                      00294     4
+A1/src/algebra.hpp                      65153    10
+A1/src/appwindow.cpp                    13217     5
+A1/src/appwindow.hpp                    21195     1
+A1/src/game488                          25105   507
+A1/src/game.cpp                         26219     8
+A1/src/game.hpp                         08542     4
+A1/src/main.cpp                         50545     1
+A1/src/Makefile                         20079     1
+A1/src/viewer.cpp                       19107    13
+A1/src/viewer.hpp                       11886     4
+
+
+
+
+
+
+
+
+
